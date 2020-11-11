@@ -1,0 +1,17 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+}
+
+p, li {
+    color: white;
+}
+
+.links {
+    color: orange;
+}
+
